@@ -1,0 +1,11 @@
+{
+  "name": "rescale-images-demo",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "resize": "src/main.js"
+  },
+  "dependencies": {
+    "sharp": "0.31.3"
+  }
+}
